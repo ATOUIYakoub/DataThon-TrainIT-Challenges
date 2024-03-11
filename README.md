@@ -6,13 +6,13 @@ This repository houses the culmination of my efforts during the DataThon TrainIT
 
 Key Highlights:
 
-    Data Exploration and Analysis: Delve into the intricacies of various datasets, uncovering patterns, trends, and anomalies crucial for informed decision-making.
+Data Exploration and Analysis: Delve into the intricacies of various datasets, uncovering patterns, trends, and anomalies crucial for informed decision-making.
 
-    Model Development: Witness the evolution of predictive models tailored to specific challenges, leveraging machine learning algorithms, statistical techniques, and domain knowledge.
+Model Development: Witness the evolution of predictive models tailored to specific challenges, leveraging machine learning algorithms, statistical techniques, and domain knowledge.
 
-    Innovative Solutions: Explore creative approaches and methodologies employed to address complex problems, pushing the boundaries of conventional data analysis.
+Innovative Solutions: Explore creative approaches and methodologies employed to address complex problems, pushing the boundaries of conventional data analysis.
 
-    Insightful Visualizations: Visual representations enhance understanding, providing intuitive insights into data dynamics, facilitating better interpretation and communication.
+Insightful Visualizations: Visual representations enhance understanding, providing intuitive insights into data dynamics, facilitating better interpretation and communication.
 
 How to Contribute:
 
