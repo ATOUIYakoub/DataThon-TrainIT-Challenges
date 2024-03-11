@@ -1,5 +1,3 @@
-Repository Description:
-
 Welcome to DataThon TrainIT Challenges Repository!
 
 This repository houses the culmination of my efforts during the DataThon TrainIT challenges. Through this platform, I tackled a series of data-centric challenges, utilizing diverse datasets and implementing innovative solutions. Here, you'll find a collection of my models, analyses, and insights gained from the competition.
